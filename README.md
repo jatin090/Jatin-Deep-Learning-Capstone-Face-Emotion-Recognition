@@ -19,7 +19,7 @@ The dataset which I used was the “Cleaned FER2013”  dataset from kaggle. You
 
 https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
 
-![](Modelimage.png)
+![](modelimage.png)
 
  
 This model gave an training accuracy of 77 and testing accuracy of 75. To access the dataset, unzip the zip file in this folder. This will create the folder dataset.
