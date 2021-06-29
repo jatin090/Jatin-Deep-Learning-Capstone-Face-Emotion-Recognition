@@ -11,8 +11,7 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 
 https://github.com/jatin090/Jatin-Deep-Learning-Capstone-Face-Emotion-Recognition.git
 
-This was a group project which I did with my friend Shreyas. We decided we both will make a model for emotion detection, and the model which gave better accuracy, the further project would be done on that model.
-This repository contains the model made by me. I built a Transfer-Learning model to predict emotion
+I built a Transfer-Learning model to predict real-time emotion.
 
 ## Model Explanation - Jatin
 The dataset which I used was the “Cleaned FER2013”  dataset from kaggle. You can download the dataset from the link below and copy paste the dataset in the folder.
@@ -26,14 +25,3 @@ This model gave an training accuracy of 77 and testing accuracy of 75. To access
 
 Since mobilenet model gave better accuracy this model was selected  further in the project.
 
-
-The model which my friend Shreyas made was CNN, from scratch with an accuracy of 60%, hence we decided that further projects i.e. frontend and deployment will be done on my model. You can access the code for his model from the below github link:
-https://github.com/shreyasah99/Shreyas-Deep-Learning-Capstone-Face-Emotion-Recognition.git
-
-Then we made frontend of the model on streamlit and flask and deployed these models on Heroku cloud as well as on azure.
-
-Link of repository containing streamlit code:
-https://github.com/jatin090/facial-emotion-detect-with-streamlit
-
-Link of repository containing flask code:
-https://github.com/jatin090/facial-emotion-detect-with-flask
